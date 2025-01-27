@@ -1,0 +1,4 @@
+"AadClientId": "de32a5de-100b-4f2e-bbc6-6bbfe8427deb",
+  "AadSecret": "HMC8Q~uLYlXeKSCtPdwl~u1IW-k.oaL9IxEyRbVQ",
+  "AadTenantDomain": "mandelbulbtech.onmicrosoft.com",
+  "AadTenantId": "077104d2-9b90-4ca9-8afb-9657962a1309",
